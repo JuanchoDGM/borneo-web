@@ -2137,6 +2137,38 @@ input:checked + .toggle-bg {
     height: 80vh;
   }
 
+  .md\:h-2\/6 {
+    height: 33.333333%;
+  }
+
+  .md\:h-1\/5 {
+    height: 20%;
+  }
+
+  .md\:h-1\/6 {
+    height: 16.666667%;
+  }
+
+  .md\:h-\[15\%\] {
+    height: 15%;
+  }
+
+  .md\:h-20 {
+    height: 5rem;
+  }
+
+  .md\:h-10 {
+    height: 2.5rem;
+  }
+
+  .md\:h-32 {
+    height: 8rem;
+  }
+
+  .md\:h-24 {
+    height: 6rem;
+  }
+
   .md\:w-auto {
     width: auto;
   }
